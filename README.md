@@ -1,4 +1,7 @@
-# Rede Neural Artificial (RNA)
+#TesteJornada
+Teste Jornada Ebac
+
+## Rede Neural Artificial (RNA)
 Este é um projeto de implementação de uma rede neural artificial (RNA) em JavaScript. O projeto inclui as classes Neuron e RNA para simular uma rede neural básica com múltiplas camadas e neurônios.
 
 ## Funcionalidades
